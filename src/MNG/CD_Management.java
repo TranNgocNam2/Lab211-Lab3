@@ -131,7 +131,7 @@ public class CD_Management implements I_CD {
     public void save() {
         cataLog.saveCD();
         System.out.println("Save product succesfully!");
-        changed = true;
+        changed = false;
     }
 
     @Override

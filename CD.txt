@@ -1,2 +1,4 @@
 CD001, game, audio, T1, 12344, 1980
 CD002, movie, video, DO, 1234, 1970
+CD003, game, video, asdas, 9819, 2012
+CD005, music, audio, fas, 12343, 2011

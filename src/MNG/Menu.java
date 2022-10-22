@@ -71,7 +71,7 @@ public class Menu extends ArrayList<String> {
                     pM.printFromFile();
                     break;
                 default:
-                    if (pM.isChanged() == false) {
+                    if (pM.isChanged() == true) {
                         System.out.println("Data is changed. Save to file ?");
                         int num = MyTools.getIntFromMinToMax("  1: Yes\n  2: No\n    Your Choice: ", 1, 2);
                         if (num == 1) {
