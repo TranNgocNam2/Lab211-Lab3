@@ -1,0 +1,2 @@
+CD001, game, audio, T1, 12344, 1980
+CD002, movie, video, DO, 1234, 1970
